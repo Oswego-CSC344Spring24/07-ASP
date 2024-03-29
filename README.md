@@ -29,4 +29,5 @@ path(1,1,1,2)  path(1,2,1,3)
 ```
 To submit your solution, please modify the file [findpath.lp](findpath.lp).
 
-Please commit your code to GitHub and submit a screen shot at the same time.
+Please commit your code to GitHub.
+Because there are too many possible paths, we don't have auto test available. Please submit a screen shot of your output on GitHub too.
