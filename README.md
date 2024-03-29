@@ -2,7 +2,7 @@
 
 ![grid](grid.png)
 
-Given a 5 by 5 grid as above, write an ASP program to generate a directed path from the white circle to the black circle by linking horizontally or vertically adjacent cells.The path traverses cells of the square grid without ever crossing or intersecting itself.
+Given a 4 by 4 grid as above, write an ASP program to generate a directed path from the white circle to the black circle by linking horizontally or vertically adjacent cells.The path traverses cells of the square grid without ever crossing or intersecting itself.
 
 
 The square grid is represented by facts of the following predicates:
