@@ -13,7 +13,7 @@ final(X,Y).  % the final cell of the path (marked with a black circle) is (X,Y)
 ```
 The example shown before is represented by the following facts:
 ```
-cell(1..5,1..5).
+cell(1..4,1..4).
 first(4,1).
 final(1,3).
 ```
